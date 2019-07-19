@@ -1,0 +1,5 @@
+Licensing: hotelretroj.bmp contains a file downloaded from: 
+https://commons.wikimedia.org/wiki/File:Tom_Brady_in_October_2013.jpg
+It says, it's under CC-by-sa-2.0 license, but the file it links to says, that it's copyrighted. I trust Wikimedia on this one, because I couldn't find a better picture, and there's no monetization whatsoever.
+Original:
+https://www.flickr.com/photos/jdn/10556799426/
