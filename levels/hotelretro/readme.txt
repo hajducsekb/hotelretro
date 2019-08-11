@@ -8,6 +8,10 @@ Length: 411 meters
 
 Changelog:
 
+Version 1.11
+- Added readme.txt
+- Fix of issue where version 1.1 didn't contain the updated AI (.fan) and Trigger (.tri) files
+
 Version 1.1
 - Added directional arrows
 - More B&W stuff (Star, pickups, go signs, some of the HUD and loading screens)
@@ -25,5 +29,5 @@ Features:
 - Challenge Time
 
 Tools used:
--Adobe Photoshop
--Blender + Marv's plugin
+- Adobe Photoshop
+- Blender + Marv's plugin
