@@ -2,7 +2,7 @@ Hotel Retro
 Version: 1.1
 Creator: ducsekbence
 Release date: 2019/07/13
-Updated: 2019/07/25
+Updated: 2019/08/12
 Category: Extreme
 Length: 411 meters
 
@@ -31,3 +31,5 @@ Features:
 Tools used:
 - Adobe Photoshop
 - Blender + Marv's plugin
+
+All dates above are in YYYY/MM/DD format.
